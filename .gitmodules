@@ -1,0 +1,12 @@
+[submodule "dns/daily-commonspeak2"]
+	path = dns/daily-commonspeak2
+	url = https://github.com/cqsd/daily-commonspeak2
+[submodule "dns/CT_subdomains"]
+	path = dns/CT_subdomains
+	url = https://github.com/internetwache/CT_subdomains
+[submodule "pass/passphrase-wordlist"]
+	path = pass/passphrase-wordlist
+	url = https://github.com/initstring/passphrase-wordlist
+[submodule "wlgen"]
+	path = wlgen
+	url = https://github.com/ztgrace/wlgen
