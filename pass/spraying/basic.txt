@@ -1,5 +1,10 @@
 password
+123456a!
+ABCab123!
+34567a!
+AB123456a!
 password123
+password123!
 password1
 changeme
 Changeme1
