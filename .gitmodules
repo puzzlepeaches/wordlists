@@ -10,3 +10,6 @@
 [submodule "wlgen"]
 	path = wlgen
 	url = https://github.com/ztgrace/wlgen
+[submodule "users/statistically-likely-usernames"]
+	path = users/statistically-likely-usernames
+	url = https://github.com/insidetrust/statistically-likely-usernames
